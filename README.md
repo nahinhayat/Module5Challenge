@@ -8,6 +8,7 @@ I imported these libraries first and called the load_dotenv(), then I created an
 ![screenshot1](https://github.com/nahinhayat/Module5Challenge/blob/main/Starter_Code%205/screenshotsmodule5challenge/Screen%20Shot%202023-03-22%20at%209.09.38%20PM.png)
 
 Then the first step to analyze the portfolio I pulled the current prices of bitcoin and ethereum using api endpoints and making requests. After making the requests I navigated the JSON response to the prices and stored them as variables:
+
 ![screenshot2](https://github.com/nahinhayat/Module5Challenge/blob/main/Starter_Code%205/screenshotsmodule5challenge/Screen%20Shot%202023-03-22%20at%209.13.19%20PM.png)
 
 ![screenshot3](https://github.com/nahinhayat/Module5Challenge/blob/main/Starter_Code%205/screenshotsmodule5challenge/Screen%20Shot%202023-03-22%20at%209.13.40%20PM.png)
